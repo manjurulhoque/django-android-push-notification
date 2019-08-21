@@ -1,0 +1,4 @@
+setup FCM with Android app
+Install app on android
+When installing, it will generate a token, take this take add it to reg_token in dj app. That's it.
+Now send noty :-D
